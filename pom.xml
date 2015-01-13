@@ -7,7 +7,7 @@
 	<artifactId>lop-parent</artifactId>
 	<version>1.0.0.SNAPSHOT</version>
 	<packaging>pom</packaging>
-	<name>HZ :: Parent</name>
+	<name>Lop :: Parent :: ${project.version}</name>
 	<description>父POM, 所有POM继承于此, 子POM不需要定义版本号、scope等</description>
 
 	<properties>
